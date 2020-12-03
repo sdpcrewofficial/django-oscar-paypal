@@ -6,7 +6,7 @@ from paypal import VERSION
 setup(
     name='kevopaypal',
     version=VERSION,
-    url='https://github.com/django-oscar/django-oscar-paypal',
+    url='https://github.com/sdpcrewofficial/django-oscar-paypal',
     description=(
         "FIX For Integration with PayPal Express, PayPal Payflow Pro and Adaptive "
         "Payments for django-oscar"),
