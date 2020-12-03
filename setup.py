@@ -4,11 +4,11 @@ from setuptools import find_packages, setup
 from paypal import VERSION
 
 setup(
-    name='django-oscar-paypal',
+    name='kevopaypal',
     version=VERSION,
     url='https://github.com/django-oscar/django-oscar-paypal',
     description=(
-        "Integration with PayPal Express, PayPal Payflow Pro and Adaptive "
+        "FIX For Integration with PayPal Express, PayPal Payflow Pro and Adaptive "
         "Payments for django-oscar"),
     long_description=open('README.rst').read(),
     keywords="Payment, PayPal, Oscar",
